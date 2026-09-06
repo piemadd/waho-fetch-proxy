@@ -2,7 +2,7 @@ import { create, toBinary, fromBinary, toJson, fromJson } from "@bufbuild/protob
 import { MultipleLocationMessageSchema } from "./gen/wahoindex/wahoindex_pb";
 
 const APP_KEY = "67D5833A-80B5-4F9E-9C2B-9E7BAA634C27";
-const DEBUG = true;
+const DEBUG = false;
 const PER_FETCH_COUNT = DEBUG ? 10 : 100;
 
 const DEFAULT_RESPONSE = `
