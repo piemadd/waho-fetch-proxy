@@ -1,0 +1,2248 @@
+{
+  "uid": 489505,
+  "name": "Waffle House #1791",
+  "clientkey": "1791",
+  "unique_url_identifier": "saintjoseph-mo-1791",
+  "icon": "default",
+  "address1": "4223 COMMONWEALTH",
+  "address2": "",
+  "city": "SAINT JOSEPH",
+  "county": "",
+  "state": "MO",
+  "province": "",
+  "country": "US",
+  "postalcode": "64503",
+  "latitude": "39.72406",
+  "longitude": "-94.79321",
+  "bho": "[[\"0000\",\"0000\"],[\"0000\",\"0000\"],[\"0000\",\"0000\"],[\"0000\",\"0000\"],[\"0000\",\"0000\"],[\"0000\",\"0000\"],[\"0000\",\"0000\"]]",
+  "email": "socialmedia@wafflehouse.com",
+  "fax": "",
+  "phone": "+1 816-279-1791",
+  "website": "https://locations.wafflehouse.com/saintjoseph-mo-1791/",
+  "links": ["https://locations.wafflehouse.com/saintjoseph-mo-1791/"],
+  "saturday_open": "00:00",
+  "monday_open": "00:00",
+  "friday_open": "00:00",
+  "sunday_close": "00:00",
+  "tuesday_open": "00:00",
+  "tuesday_close": "00:00",
+  "thursday_open": "00:00",
+  "thursday_close": "00:00",
+  "wednesday_close": "00:00",
+  "saturday_close": "00:00",
+  "monday_close": "00:00",
+  "wednesday_open": "00:00",
+  "sunday_open": "00:00",
+  "friday_close": "00:00",
+  "Hero Banner Text": "Lunch & Dinner Favorites",
+  "Page Local Spotlight Body": "",
+  "Hero Image": {
+    "Image URL": "https://p1.socds.net/account/27945/Y9yeu-VzBl5.png",
+    "Image Name": "Hero Image",
+    "Alt Text": "Hero Image"
+  },
+  "Page FAQ Title": "",
+  "Hero Banner CTA": { "Label": "Smother Your Hunger", "Link": "https://order.wafflehouse.com/menu/waffle-house-1791" },
+  "About Waffle House Module": [{ "asset_type": "About Module", "value": "486557", "remote_id": "about-waffle-house" }],
+  "Page Meta Title": "Southern breakfast food in Saint Joseph, 64503 | Waffle House - Waffle House #1791",
+  "Hero Image Mobile": { "Image URL": "", "Image Name": "", "Alt Text": "" },
+  "Page Meta Description": "Stop into your local Waffle House location in Saint Joseph, Missouri. Visit us for waffles, t-bone steaks, hashbrowns, cheese 'n eggs, country ham, pork chops and grits.",
+  "Restaurant Image": {
+    "Image URL": "https://p1.socds.net/account/27945/Q1uiR-T5g4Q.jpg",
+    "Image Name": "Restaurant Image",
+    "Alt Text": "Restaurant Image"
+  },
+  "Delivery Only": "",
+  "Coming Soon": "",
+  "FAQ Module": [{ "asset_type": "FAQ", "value": "486552", "remote_id": "faq" }],
+  "Page Local Spotlight Title": "",
+  "More Offerings Module": [
+    { "asset_type": "More Offerings Module", "value": "486556", "remote_id": "more-offerings-main" }
+  ],
+  "Page FAQs": [],
+  "asset": {
+    "asset_type_id": 1069,
+    "asset_type_name": "Store Pages",
+    "uid": 489505,
+    "asset_id": 489505,
+    "name": "Waffle House #1791",
+    "client_key": "1791",
+    "unique_url_identifier": "saintjoseph-mo-1791",
+    "remote_id": "1791",
+    "Hero Banner Text": "Lunch & Dinner Favorites",
+    "Page Local Spotlight Body": "",
+    "Hero Image": {
+      "Image URL": "https://p1.socds.net/account/27945/Y9yeu-VzBl5.png",
+      "Image Name": "Hero Image",
+      "Alt Text": "Hero Image"
+    },
+    "Page FAQ Title": "",
+    "Hero Banner CTA": {
+      "Label": "Smother Your Hunger",
+      "Link": "https://order.wafflehouse.com/menu/waffle-house-1791"
+    },
+    "About Waffle House Module": [
+      { "asset_type": "About Module", "value": "486557", "remote_id": "about-waffle-house" }
+    ],
+    "Page Meta Title": "Southern breakfast food in Saint Joseph, 64503 | Waffle House - Waffle House #1791",
+    "Hero Image Mobile": { "Image URL": "", "Image Name": "", "Alt Text": "" },
+    "Page Meta Description": "Stop into your local Waffle House location in Saint Joseph, Missouri. Visit us for waffles, t-bone steaks, hashbrowns, cheese 'n eggs, country ham, pork chops and grits.",
+    "Restaurant Image": {
+      "Image URL": "https://p1.socds.net/account/27945/Q1uiR-T5g4Q.jpg",
+      "Image Name": "Restaurant Image",
+      "Alt Text": "Restaurant Image"
+    },
+    "Delivery Only": "",
+    "Coming Soon": "",
+    "FAQ Module": [{ "asset_type": "FAQ", "value": "486552", "remote_id": "faq" }],
+    "Page Local Spotlight Title": "",
+    "More Offerings Module": [
+      { "asset_type": "More Offerings Module", "value": "486556", "remote_id": "more-offerings-main" }
+    ],
+    "Page FAQs": []
+  },
+  "location": {
+    "network_foursquare": "",
+    "tripadvisor_url": "",
+    "logo_url": "",
+    "network_vw": "",
+    "location_id": 784611,
+    "network_soleo": "",
+    "telephone_numbers": [{ "telephone_name": "Primary", "phone": "+1 816-279-1791", "telephone_type": "landline" }],
+    "network_localeze": "",
+    "network_google_assistant": "",
+    "network_city_grid": "",
+    "primary_category": "breakfast_restaurant",
+    "network_my_local_services": "",
+    "network_chamber_of_commerce": "",
+    "fingerprint": "692f87e20d901e34597a7965803e56c6",
+    "listings_name": "Waffle House",
+    "fax": "",
+    "network_tomtom": "",
+    "images": {
+      "all": {
+        "logo": [
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c3fc4360e-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c3fc4360e-2026-05-01.jpeg"
+          }
+        ],
+        "photo": [
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c50d3b1c1-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c50d3b1c1-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c50e257b1-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c50e257b1-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c50f0363d-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c50f0363d-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c50fc9cfd-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c50fc9cfd-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c510a7158-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c510a7158-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c51274462-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c51274462-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c51346f4f-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c51346f4f-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c5141149c-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c5141149c-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c515c0d07-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c515c0d07-2026-05-01.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c5185dcd4-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c5185dcd4-2026-05-01.jpeg"
+          }
+        ],
+        "cover_photo": [
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_69f4c4035e160-2026-05-01.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_69f4c4035e160-2026-05-01.jpeg"
+          }
+        ]
+      },
+      "gmb": {
+        "photo": [
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6e5e0143-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6e5e0143-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6e76b12e-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6e76b12e-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6e89922a-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6e89922a-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6e9b574d-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6e9b574d-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6eb2cea2-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6eb2cea2-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6ec604b0-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6ec604b0-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6edad30a-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6edad30a-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6eec0004-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6eec0004-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f0e05c5-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f0e05c5-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f1e9d08-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f1e9d08-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f325aed-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f325aed-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f429e5c-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f429e5c-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f52335b-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f52335b-2026-02-05.jpeg"
+          },
+          {
+            "thumbnail_url": "https://p1.socds.net/projects/photos/thumbnails/photo_upload_6984c6f61d331-2026-02-05.jpeg",
+            "image_url": "https://p1.socds.net/projects/photos/photo_upload_6984c6f61d331-2026-02-05.jpeg"
+          }
+        ]
+      }
+    },
+    "network_tupalo": "",
+    "network_brownbook": "",
+    "image_url": "",
+    "network_caredash": "",
+    "network_hotfrog": "",
+    "network_ezlocal": "",
+    "root_category_id": "",
+    "network_pages24": "",
+    "labels": [
+      "American Diner",
+      "Breakfast Restaurant",
+      "Breakfast",
+      "Casual Dining",
+      "Credit Cards Accepted",
+      "Open 24 Hours"
+    ],
+    "phone": "+1 816-279-1791",
+    "network_showmelocal": "",
+    "npi_numbers": "",
+    "service_areas": [{ "id": "ChIJcSUuk04awIcRqHHTW3mWdeY", "text": "Saint Joseph, MO, USA" }],
+    "network_city_squares": "",
+    "network_acompio": "",
+    "network_waze": "",
+    "short_description": "Simple chain spot offering American diner fare & all-day breakfast, including signature waffles.",
+    "reopen_date": "0000-00-00",
+    "opening_hours_notes": "",
+    "latitude": "",
+    "network_microsoft_cortana": "",
+    "network_find_open": "",
+    "order_url": "",
+    "account_name": "",
+    "network_fields": {
+      "website_url": [
+        {
+          "value": "http://order.wafflehouse.com/menu/waffle-house-1791?olonwp=Lij7MEMhykWQYWp4Jz8H6g",
+          "network": "facebook"
+        },
+        { "value": "https://www.wafflehouse.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ", "network": "gmb" }
+      ]
+    },
+    "network_where_to": "",
+    "categories": [],
+    "network_ya_sabe": "",
+    "network_yelp_api": "",
+    "network_super_pages": "",
+    "store_code": "1791",
+    "address": {
+      "country": "US",
+      "city": "SAINT JOSEPH",
+      "address_line_1": "4223 COMMONWEALTH",
+      "sublocality": "",
+      "county": "",
+      "state_province": "MO",
+      "address_line_2": "",
+      "postal_code": "64503",
+      "citystate": "SAINT JOSEPH, MO",
+      "lat": 39.72406,
+      "long": -94.79321,
+      "countystate": ""
+    },
+    "brands": "Simply Beverages,Coca-Cola,Springer Mountain Farms,Heinz,Royal Cup Coffee,Smithfield",
+    "languages": ["en_US"],
+    "network_i_global": "",
+    "network_google_maps": "",
+    "network_manta": "",
+    "network_bell_ca": "",
+    "long_description": "Headquartered in Norcross, GA, Waffle House restaurants have been serving Good Food Fast since 1955. Today, the Waffle House system operates more than 2,000 restaurants in 25 states and is the world's leading server of waffles, T-bone steaks, hashbrowns, cheese 'n eggs, country ham, pork chops, grits and burgers",
+    "services": "",
+    "network_instagram": "",
+    "network_infogroup": "",
+    "food_menu": {
+      "image_url": "",
+      "remote_id": "",
+      "menu_url": "",
+      "name": "Menu",
+      "description": "",
+      "currency": "USD",
+      "categories": [
+        {
+          "remote_id": "109300",
+          "name": "Featured Items",
+          "description": "",
+          "attributes": [],
+          "sort_order": 3,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/8c/8c14bddcf104407d9f226a4326fce46d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=79f8cb3a4e08b71ef5f30cbb1489e5c0"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 6.5,
+              "remote_id": "113273102",
+              "name": "Cinnamon Crunch Waffle ",
+              "description": "Our Cinnamon Sweet Cream Waffle topped with brown butter cinnamon sprinkle",
+              "extra_attributes": { "base_calories": "560", "max_calories": "620", "calories_separator": "-" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "cinnamon-crunch-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/59/59d8869f06084fc1865a37011f013a87.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=ac3006807c4bca2fe90f4925cd9f6ed8"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.95,
+              "remote_id": "105215340",
+              "name": "Cold Brew Coffee",
+              "description": "Try our New Classic Blend Cold Brew! Lightly Sweetened with Cream.",
+              "extra_attributes": { "base_calories": "180" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "cold-brew-coffee"
+            }
+          ],
+          "enabled": 1,
+          "slug": "featured-items"
+        },
+        {
+          "remote_id": "79538",
+          "name": "BREAKFAST FAVORITES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 6,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/d0/d04049dcb1f84534aac74e66d8cd5697.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=5292a951ae35b320b840733232199d96"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 13.1,
+              "remote_id": "113602316",
+              "name": "ALL-STAR SPECIAL™",
+              "description": "Eggs with Toast & Jelly; choice of Grits, Hashbrowns or Sliced Tomatoes; a Waffle and Your Choice of Meat; 3 Slices of Smithfield® Bacon, 2 Patties of Jimmy Dean® Sausage or Hickory Smoked Ham;",
+              "extra_attributes": { "base_calories": "1050" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "all-star-special"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/09/099b2818885c40c48be8ad050a35d602.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=af07c7823f67380ba77c27b1fe2d0847"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.25,
+              "remote_id": "67139015",
+              "name": "TWO EGG BREAKFAST",
+              "description": "Eggs with Toast & Jelly; choice of Grits  or Hashbrowns",
+              "extra_attributes": [],
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "two-egg-breakfast"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/bc/bcad7fd9b42340dcb37ac96685c87f67.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=8254a5d9052ae2c684479399011f1631"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "68204225",
+              "name": "TEXAS BREAKFAST MELT with HASHBROWNS",
+              "description": "Your Choice of Meat; 3 Slices of Smithfield® Bacon, 2 Patties of Jimmy Dean® Sausage or Hickory Smoked Ham; on Grilled Texas Toast with Egg and 2 Slices of American Cheese; with Hashbrowns",
+              "extra_attributes": { "base_calories": "920" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "texas-breakfast-melt-with-hashbrowns"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/7c/7c29ed10240e435d9a447db5b423167c.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=30c17a61d98415cb3b795ead9f9208e6"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8.25,
+              "remote_id": "67144627",
+              "name": "CHEESE N' EGGS WITH RAISIN TOAST",
+              "description": "Waffle House's Signature Cheese N' Eggs has cheese melted throughout 2 scrambled eggs; served with Raisin Toast and your choice of grits or hashbrowns.",
+              "extra_attributes": { "base_calories": "670" },
+              "sort_order": 7,
+              "enabled": 1,
+              "slug": "cheese-n-eggs-with-raisin-toast"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/25/25b630012e4b43c9976542dfd350309a.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a1664c78a19769af8ca29fff6eb5df3b"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.95,
+              "remote_id": "67146011",
+              "name": "HASHBROWNS",
+              "description": "World Famous, Golden Delicious, Hashbrowns",
+              "extra_attributes": [],
+              "sort_order": 8,
+              "enabled": 1,
+              "slug": "hashbrowns"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/c8/c8145c66334041ca8744cf1063b0e5af.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=cdb14dd262696cdfd8d9b9744e81bdd0"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.45,
+              "remote_id": "113604374",
+              "name": "CLASSIC WAFFLES",
+              "description": "Classic Sweet Cream Waffle",
+              "extra_attributes": { "base_calories": "410" },
+              "sort_order": 10,
+              "enabled": 1,
+              "slug": "classic-waffles"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/45/455268fe2f474664a14512489d625206.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=6993c90d9ff71074d118e24c74317431"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8.75,
+              "remote_id": "113608502",
+              "name": "WAFFLE with a SIDE OF MEAT",
+              "description": "A Waffle and Your Choice of Meat; 3 Slices of Smithfield® Bacon, 2 Patties of Jimmy Dean® Sausage or Hickory Smoked Ham;",
+              "extra_attributes": { "base_calories": "1050" },
+              "sort_order": 12,
+              "enabled": 1,
+              "slug": "waffle-with-a-side-of-meat"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/8a/8a5f0a0d4352434f9463407843bdf7fe.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=bb14fc68f99c2de419a06e5cb159be00"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.25,
+              "remote_id": "67150163",
+              "name": "CHICKEN BISCUIT",
+              "description": "Springer Mountain Farms® Grilled Chicken Breast on a warm grilled biscuit.",
+              "extra_attributes": { "base_calories": "520" },
+              "sort_order": 13,
+              "enabled": 1,
+              "slug": "chicken-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/02/02e1f3885f824db7913c099760bb8f74.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=ad1e177e175e9d54265ca4f8b4421126"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 14.1,
+              "remote_id": "88591946",
+              "name": "CHEESESTEAK & EGGS BREAKFAST",
+              "description": "",
+              "extra_attributes": [],
+              "sort_order": 14,
+              "enabled": 1,
+              "slug": "cheesesteak-eggs-breakfast"
+            }
+          ],
+          "enabled": 1,
+          "slug": "breakfast-favorites"
+        },
+        {
+          "remote_id": "79540",
+          "name": "SIGNATURE BOWLS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 7,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/c5/c5107dbe6097497b997cbbef881efdc5.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=1a6238246d0fccaf999522e0613439c6"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67151547",
+              "name": "CHEESESTEAK MELT HASHBROWN BOWL",
+              "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Onions, and Thin-Sliced Chuck Cheesesteak ",
+              "extra_attributes": { "base_calories": "625" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "cheesesteak-melt-hashbrown-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/9c/9c113603c37247408176dd19c3c2c93a.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=7674bd8a81beb895f14837bbbc5cd299"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67152931",
+              "name": "CHICKEN MELT HASHBROWN BOWL",
+              "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Onions, and Springer Mountain Farms® Grilled Chicken",
+              "extra_attributes": { "base_calories": "635" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "chicken-melt-hashbrown-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/ed/ed01bdccea4e45fd910e35de3f4647e7.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=7e52f8eb0ecb3ed562be9e85a6fbfff1"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67154315",
+              "name": "SAUSAGE EGG & CHEESE HASHBROWN BOWL",
+              "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs and 2 Patties of Crumbled Jimmy Dean® Sausage",
+              "extra_attributes": { "base_calories": "920" },
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "sausage-egg-cheese-hashbrown-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/97/976fa28018704c90860d7281e642ab58.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=e3ab131906f7f2a4c55208d6fb654a07"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67155699",
+              "name": "BACON EGG & CHEESE HASHBROWN BOWL",
+              "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs and 3 Slices of Crumbled Smithfield® Bacon",
+              "extra_attributes": { "base_calories": "800" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "bacon-egg-cheese-hashbrown-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/67/6724dc4a8c094ce08d11d483651ba658.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=0f7a28a5e64e49b358648b291301a493"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67157083",
+              "name": "SAUSAGE EGG & CHEESE GRITS BOWL",
+              "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs and 2 Patties of Crumbled Jimmy Dean® Sausage",
+              "extra_attributes": { "base_calories": "720" },
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "sausage-egg-cheese-grits-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/47/47097acdb79c462491ad50d2ea936334.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=6204de0a303174f2c5885f03e3e5da93"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67158467",
+              "name": "HAM EGG & CHEESE HASHBROWN BOWL",
+              "description": "Double Hashbrowns, Two Slices of Melted American Cheese, Two Scrambled Eggs Hickory Smoked Ham Chunks",
+              "extra_attributes": { "base_calories": "780" },
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "ham-egg-cheese-hashbrown-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/fa/fab3e60c0459466786afae3e1eae8d53.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=b95f73dc9e23508d59f90e81a794ae01"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67159851",
+              "name": "BACON EGG & CHEESE GRITS BOWL",
+              "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs and 3 Slices of Crumbled Smithfield® Bacon",
+              "extra_attributes": { "base_calories": "600" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "bacon-egg-cheese-grits-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e9/e9b1eb89de544f64b899424676dc65f0.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a50e88bb5a7a9f60f903774cf251debf"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.6,
+              "remote_id": "67161235",
+              "name": "HAM EGG & CHEESE GRITS BOWL",
+              "description": "Large Grits, Two Slices of Melted American Cheese, Two Scrambled Eggs Hickory Smoked Ham Chunks",
+              "extra_attributes": { "base_calories": "580" },
+              "sort_order": 7,
+              "enabled": 1,
+              "slug": "ham-egg-cheese-grits-bowl"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/6b/6ba16ca62929428195197451099c5cc1.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a27d6d0362dc999980f94f5fea87f17c"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 12.85,
+              "remote_id": "100991946",
+              "name": "CHICKEN FIESTA PROTEIN BOWL",
+              "description": ": Springer Mountain Farms® Grilled Chicken, Three Scrambled Eggs, Two Slices of Melted American Cheese, Grilled Onions, Tomatoes & Jalapeños",
+              "extra_attributes": { "base_calories": "480" },
+              "sort_order": 9,
+              "enabled": 1,
+              "slug": "chicken-fiesta-protein-bowl"
+            }
+          ],
+          "enabled": 1,
+          "slug": "signature-bowls"
+        },
+        {
+          "remote_id": "79551",
+          "name": "TEXAS MELTS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 8,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/02/02499b7f97354c31b7f6156f2ec62adf.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=0bdeb3584f0f3eca7c14a252331219cf"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 10.05,
+              "remote_id": "68206079",
+              "name": "TEXAS BACON CHEESESTEAK MELT",
+              "description": "Thin-Sliced Chuck Cheesesteak with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield® Bacon",
+              "extra_attributes": { "base_calories": "645" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "texas-bacon-cheesesteak-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/eb/eb645a78a585494e86ad6fad2f4de7ed.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=e14d6652d8c59a30f96cf459ec04ab55"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 10.05,
+              "remote_id": "67165388",
+              "name": "TEXAS BACON PATTY MELT",
+              "description": "Angus Beef Quarter Pound Hamburger with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield® Bacon",
+              "extra_attributes": { "base_calories": "735" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "texas-bacon-patty-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/7a/7a5d67df251f441f9a86b1bd8b887649.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=086ec6c552cfb599583d477436a89eda"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 10.05,
+              "remote_id": "67166772",
+              "name": "TEXAS BACON CHICKEN MELT",
+              "description": "Springer Mountain Farms® Grilled Chicken with Onions, served on Texas Toast with Two Slices of Melted American Cheese and Smithfield® Bacon",
+              "extra_attributes": { "base_calories": "655" },
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "texas-bacon-chicken-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/39/3931ce9b3f9a4929845974b09e0e1416.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=4a4736ee4ade1cee182213f2087cd339"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.25,
+              "remote_id": "67168156",
+              "name": "TEXAS SAUSAGE MELT",
+              "description": "Jimmy Dean® Sausage Patty with Onions, served on Texas Toast with Two Slices of Melted American Cheese",
+              "extra_attributes": { "base_calories": "775" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "texas-sausage-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/43/432c1db340b24907991ca6da154140c4.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=f8076bb8d83ee9a21165b88c14009391"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.75,
+              "remote_id": "85381460",
+              "name": "TEXAS CHEESESTEAK MELT",
+              "description": "Thin-Sliced Chuck Cheesesteak with Onions, served on Texas Toast with Two Slices of Melted American Cheese",
+              "extra_attributes": { "base_calories": "645" },
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "texas-cheesesteak-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/f3/f3cdc5d874784da2b11941297c2de985.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=070f25b7da3c010f919d19e820abd1c4"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.75,
+              "remote_id": "85383542",
+              "name": "TEXAS PATTY MELT",
+              "description": "Angus Beef Quarter Pound Hamburger with Onions, served on Texas Toast with Two Slices of Melted American Cheese ",
+              "extra_attributes": { "base_calories": "735" },
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "texas-patty-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/07/079db9fb76004da2a127ff7b35bb8185.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=d827b94d16cadeff2287f7d7c7b9ca1e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.75,
+              "remote_id": "85385626",
+              "name": "TEXAS CHICKEN MELT",
+              "description": "Springer Mountain Farms® Grilled Chicken with Onions, served on Texas Toast with Two Slices of Melted American Cheese ",
+              "extra_attributes": { "base_calories": "655" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "texas-chicken-melt"
+            }
+          ],
+          "enabled": 1,
+          "slug": "texas-melts"
+        },
+        {
+          "remote_id": "79547",
+          "name": "BREAKFAST SANDWICHES AND MELTS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 9,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/2c/2c990cf04951434cbe3ebb266dcce4c6.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=94390148c8af2d0cf5f0654417ba5c04"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8,
+              "remote_id": "67169540",
+              "name": "TEXAS SAUSAGE EGG & CHEESE MELT",
+              "description": "Two Jimmy Dean® Sausage Patties, One Egg and Two Slices of Melted American Cheese served on Texas Toast",
+              "extra_attributes": [],
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "texas-sausage-egg-cheese-melt"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/7a/7a7bdd8d78d64775ab582009acd8f2e8.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=60a2c50540e12ecefe9e8afbb6981127"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8,
+              "remote_id": "67170924",
+              "name": "SAUSAGE EGG & CHEESE SANDWICH",
+              "description": "Two Jimmy Dean® Sausage Patties, One Egg and a Slice of Melted American Cheese served on your choice of Toast",
+              "extra_attributes": [],
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "sausage-egg-cheese-sandwich"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/a8/a88bf050b73b43e4a64ef2ac2b308a28.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=de87267af4dba0feb115a1abdfd317f3"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8,
+              "remote_id": "67172308",
+              "name": "BACON EGG & CHEESE SANDWICH",
+              "description": "Three Slices of Smithfield® Bacon, One Egg and a Slice of Melted American Cheese served on your choice of Toast",
+              "extra_attributes": [],
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "bacon-egg-cheese-sandwich"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/4d/4d7f92c3ebc94086ac6d8f3e118e9246.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=20067f05be9b8a3a9d3e5e24f9940b88"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8,
+              "remote_id": "67173692",
+              "name": "TEXAS BACON EGG & CHEESE MELT",
+              "description": "Three Slices of Smithfield® Bacon, One Egg and Two Slices of Melted American Cheese served on Texas Toast",
+              "extra_attributes": [],
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "texas-bacon-egg-cheese-melt"
+            }
+          ],
+          "enabled": 1,
+          "slug": "breakfast-sandwiches-and-melts"
+        },
+        {
+          "remote_id": "79544",
+          "name": "WAFFLES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 10,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/8c/8c14bddcf104407d9f226a4326fce46d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=79f8cb3a4e08b71ef5f30cbb1489e5c0"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 6.5,
+              "remote_id": "113275112",
+              "name": "Cinnamon Crunch Waffle ",
+              "description": "Our Cinnamon Sweet Cream Waffle topped with brown butter cinnamon sprinkle",
+              "extra_attributes": { "base_calories": "560", "max_calories": "620", "calories_separator": "-" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "cinnamon-crunch-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/b6/b62fc50937e5496cb3b6f717d8b99963.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=9aaf6de073b0d7a96edb2dc29b2f7196"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.95,
+              "remote_id": "67176510",
+              "name": "PECAN WAFFLE",
+              "description": "On the menu since 1955, our Classic Sweet Cream Waffle with a generous portion of Pecan pieces baked inside.",
+              "extra_attributes": { "base_calories": "560" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "pecan-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/09/090243b7ccb64c209ad58ee32c1f2455.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=7defcf6d36795b10760e1d038867ba12"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.95,
+              "remote_id": "67177844",
+              "name": "CHOCOLATE CHIP WAFFLE",
+              "description": "Our Classic Sweet Cream Waffle topped with chocolate chips",
+              "extra_attributes": { "base_calories": "520" },
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "chocolate-chip-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/38/38d96766d9564bfe9b635f9c365409e4.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=ec9642955f9db31c28eccd335b542dba"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.95,
+              "remote_id": "67179228",
+              "name": "PEANUT BUTTER CHIP WAFFLE",
+              "description": "Our Classic Sweet Cream Waffle topped with peanut butter chips",
+              "extra_attributes": { "base_calories": "560" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "peanut-butter-chip-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/32/3251c3a70f95429f8aafb1545eb831c7.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a38c306a22ea1aedb9d693091ddb9654"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.95,
+              "remote_id": "87931957",
+              "name": "BLUEBERRY WAFFLE",
+              "description": "Our Classic Blueberry Sweet Cream Waffle",
+              "extra_attributes": { "base_calories": "560" },
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "blueberry-waffle"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/f0/f0fb8bee2bbc4b31b6c96407de8085e1.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=b1a4e4ab381bf7eb27dc3d72ebe43ef8"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.45,
+              "remote_id": "67175076",
+              "name": "CLASSIC WAFFLE",
+              "description": "Classic Sweet Cream Waffle",
+              "extra_attributes": { "base_calories": "410" },
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "classic-waffle"
+            }
+          ],
+          "enabled": 1,
+          "slug": "waffles"
+        },
+        {
+          "remote_id": "79541",
+          "name": "HASHBROWNS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 11,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/25/25b630012e4b43c9976542dfd350309a.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a1664c78a19769af8ca29fff6eb5df3b"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.95,
+              "remote_id": "67180612",
+              "name": "HASHBROWNS",
+              "description": "World Famous, Golden Delicious, Hashbrowns",
+              "extra_attributes": [],
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "hashbrowns"
+            }
+          ],
+          "enabled": 1,
+          "slug": "hashbrowns"
+        },
+        {
+          "remote_id": "79549",
+          "name": "BISCUITS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 12,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/d5/d55227dfd305445883697ed6efdffb0d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=37514c5c8f7759dafd3c6d98490fcf79"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67184764",
+              "name": "SAUSAGE, EGG & CHEESE BISCUIT",
+              "description": "One Jimmy Dean® Sausage Patty, One Egg and One Slice of Melted American Cheese, served on a Grilled Biscuit",
+              "extra_attributes": [],
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "sausage-egg-cheese-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/c8/c81f95baf8064614ba48138e803c127f.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=d3b856668319e1b6b1153f150f4318b9"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67186198",
+              "name": "BACON, EGG & CHEESE BISCUIT",
+              "description": "Two Slices of Smithfield® Bacon, One Egg and One Slice of Melted American Cheese, served on a Grilled Biscuit",
+              "extra_attributes": [],
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "bacon-egg-cheese-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e3/e30f09a8815e4793ae2bcc6619f5bdd5.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=7a049b8cd33d03c9359cb1d188e952ad"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67187532",
+              "name": "SAUSAGE BISCUIT",
+              "description": "One Jimmy Dean® Sausage Patty served on a Grilled Biscuit",
+              "extra_attributes": [],
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "sausage-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/d3/d3c418d934754ef4ace3b97422f897d3.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=b8082b33437ec72c03c93569243f918e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "87679090",
+              "name": "CHICKEN SAUSAGE BISCUIT",
+              "description": "One of our Grilled Biscuits with a Springer Mountain Farms Chicken Sausage Patty. ",
+              "extra_attributes": [],
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "chicken-sausage-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/2b/2b00c7d671e54263a9e0aadc6bc37766.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=144b82b31faa8f6408ec5dacd705ea32"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67188916",
+              "name": "BACON BISCUIT",
+              "description": "Two Slices of Smithfield® Bacon, served on a Grilled Biscuit",
+              "extra_attributes": [],
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "bacon-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/30/308dd9c79885487ca0de415dfa6f23fa.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=55f55f8391fd3f32f0d7939b9969086e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67190300",
+              "name": "GRILLED BISCUIT",
+              "description": "A Fluffy Biscuit fresh off the Grill",
+              "extra_attributes": [],
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "grilled-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/11/110c21749e6a48c7b03d225200d9400e.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=c3dfb46a750efbb4640c1cac2d3540c4"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67191684",
+              "name": "City Ham Biscuit",
+              "description": "One of our Grilled Biscuits with our City Ham",
+              "extra_attributes": [],
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "city-ham-biscuit"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/45/45b2faa168014bcfa9a8c8f269fab9de.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=50b0ceac37aa0f1bc7f9aeb10d3b5837"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "77812789",
+              "name": "GRILLED BISCUIT & GRAVY",
+              "description": "A Fluffy Biscuit fresh off the Grill covered in our Signature Sausage Gravy",
+              "extra_attributes": [],
+              "sort_order": 7,
+              "enabled": 1,
+              "slug": "grilled-biscuit-gravy"
+            }
+          ],
+          "enabled": 1,
+          "slug": "biscuits"
+        },
+        {
+          "remote_id": "79539",
+          "name": "LUNCH/DINNER FAVORITES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 13,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/72/72924d8dc07a4dcf9be39dd9c94cd054.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=970586d5cdba166c5776c2c9f6972429"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 13.6,
+              "remote_id": "88594030",
+              "name": "PAPA JOE'S PORKCHOP DINNER",
+              "description": "",
+              "extra_attributes": [],
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "papa-joes-porkchop-dinner"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/34/34aab4780326446cbc898008c488445c.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=f7efb7c88437171e42ded4b218cace1c"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 13.6,
+              "remote_id": "67197220",
+              "name": "TEXAS BACON PATTY MELT with HASHBROWNS",
+              "description": "Angus Beef Quarter Pound Hamburger (4-oz), Onions and Two Slices of Melted American Cheese, served on Grilled Texas Toast; with Hashbrowns",
+              "extra_attributes": { "base_calories": "925" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "texas-bacon-patty-melt-with-hashbrowns"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/62/627ffb9bf0fb4a639d34ab676ef8c257.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=028a177bf217a1fa6ce63c2dfbeeee9f"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 13.6,
+              "remote_id": "67201372",
+              "name": "TEXAS BACON CHEESESTEAK™ MELT with HASHBROWNS",
+              "description": "Thin-Sliced Chuck Cheesesteak, Onions, Smithfield® Bacon, and Two Slices of Melted American Cheese, served on Grilled Texas Toast; with Hashbrowns",
+              "extra_attributes": { "base_calories": "835" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "texas-bacon-cheesesteak-melt-with-hashbrowns"
+            }
+          ],
+          "enabled": 1,
+          "slug": "lunchdinner-favorites"
+        },
+        {
+          "remote_id": "79550",
+          "name": "SANDWICHES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 14,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/59/59bab9c207ca42b19920255d207f84d1.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=c397b979fe09bcaa76e6386b430a4634"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 9.55,
+              "remote_id": "111692462",
+              "name": "CHICKEN BACON SANDWICH",
+              "description": "Springer Mountain Farms® Grilled Chicken Breast with Smithfield® Bacon, served on a Grilled Bun",
+              "extra_attributes": { "DeptNumber": "", "base_calories": "480", "UPC": "" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "chicken-bacon-sandwich"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/1f/1f32bbb15cad4b739f200249a645c831.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=985f1b2634487649595df82f37b25d48"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.15,
+              "remote_id": "111504842",
+              "name": "GRILLED CHEESE SANDWICH",
+              "description": "Two Slices of Melted American Cheese; served on  Grilled Toast",
+              "extra_attributes": { "base_calories": "330" },
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "grilled-cheese-sandwich"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/3f/3fa40b8b228744d9a8a2d05d7659dad1.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=a9b4b32f90f4ace55e4a2b3fd9e81df4"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.25,
+              "remote_id": "111694461",
+              "name": "CHICKEN SANDWICH",
+              "description": "Springer Mountain Farms® Grilled Chicken Breast served on a Grilled Bun",
+              "extra_attributes": { "DeptNumber": "", "base_calories": "480", "UPC": "" },
+              "sort_order": 9,
+              "enabled": 1,
+              "slug": "chicken-sandwich"
+            }
+          ],
+          "enabled": 1,
+          "slug": "sandwiches"
+        },
+        {
+          "remote_id": "79548",
+          "name": "100% ANGUS BEEF BURGERS",
+          "description": "",
+          "attributes": [],
+          "sort_order": 15,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/1a/1a821a9570bd4029b84083c8f1eb9cad.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=72aaddfd6b679bba4485f073840072d1"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 7.75,
+              "remote_id": "111265392",
+              "name": "ANGUS 1/4 LBS HAMBURGER WITH BACON",
+              "description": "Angus Beef Quarter Pound Hamburger (4-oz) with Smithfield® Bacon, served on a Grilled Bun",
+              "extra_attributes": { "base_calories": "570" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "angus-14-lbs-hamburger-with-bacon"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/ed/ed779aaceb7d408091fad8ef48a9d275.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=186e69b6372c35fcd1c4b60320115979"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 11.3,
+              "remote_id": "111267316",
+              "name": "DOUBLE ANGUS 1/4 LBS HAMBURGER  WITH BACON",
+              "description": "2 Angus Beef Quarter Pound Hamburgers (4-oz each) with Smithfield® Bacon,  served on a Grilled Bun",
+              "extra_attributes": { "base_calories": "790" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "double-angus-14-lbs-hamburger-with-bacon"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/73/732d840374544801bdf430b510544de4.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=dd1a6c594f9af959fcbbd4c7cfed0a48"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 5.45,
+              "remote_id": "111269240",
+              "name": "ANGUS 1/4 LBS HAMBURGER",
+              "description": "Angus Beef Quarter Pound Hamburger (4-oz), served on a Grilled Bun",
+              "extra_attributes": { "base_calories": "570" },
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "angus-14-lbs-hamburger"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/64/649e3a38116846ef8ea3e1e692c86177.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=c89dcaa80203c2518298d289e1b7ac4c"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 9.05,
+              "remote_id": "111271164",
+              "name": "DOUBLE ANGUS 1/4 LBS HAMBURGER ",
+              "description": "2 Angus Beef Quarter Pound Hamburgers (4-oz each), served on a Grilled Bun",
+              "extra_attributes": { "base_calories": "790" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "double-angus-14-lbs-hamburger"
+            }
+          ],
+          "enabled": 1,
+          "slug": "100-angus-beef-burgers"
+        },
+        {
+          "remote_id": "79546",
+          "name": "SIDES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 16,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/d9/d9760ba8fe3d40f491567903ba1e2fc4.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=54535b50eb78b911d12e0025d0427945"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67215212",
+              "name": "BACON",
+              "description": "Three Slices of Smithfield® Bacon",
+              "extra_attributes": [],
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "bacon"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/60/606a6b0ea4514a9a8371a1607fb6a1e1.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=30b943d8a6176899652d7a52c68b2d76"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "87704232",
+              "name": "SAUSAGE",
+              "description": "Two Jimmy Dean® Sausage Patties",
+              "extra_attributes": [],
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "sausage"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/3a/3ae0db3a893846ed9cef299fb5ec74b0.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=3857ebad7a139c66aad1f70a1919bf02"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "87683254",
+              "name": "Chicken Sausage",
+              "description": "Two Springer Mountain Farms® Chicken Sausage Patties",
+              "extra_attributes": [],
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "chicken-sausage"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/60/606e2fd86dec499ca9ecf12b5a715a7d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=79d1c9eb38f18c4d4de14ea37fb22dff"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.15,
+              "remote_id": "111445575",
+              "name": "Side of Eggs",
+              "description": "A side of eggs, cooked how you'd like.",
+              "extra_attributes": { "DeptNumber": "", "UPC": "" },
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "side-of-eggs"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/5d/5ddf474e87ec40f5b2bb46b70cef0fc7.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=9206bd20c1e513e14249c65c67faa71e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 4.7,
+              "remote_id": "67217980",
+              "name": "CITY HAM",
+              "description": "One Slice of Hickory Smoked City Ham (3-oz)",
+              "extra_attributes": [],
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "city-ham"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/41/417ecdca9ce74e408189cb722a0f08b7.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=9bb9e42bb4197bfc0ba36d216f026e37"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 10.8,
+              "remote_id": "67219364",
+              "name": "T-BONE",
+              "description": "USDA Choice T-Bone Steak (10-oz)",
+              "extra_attributes": { "base_calories": "300" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "t-bone"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/d5/d5a9ba5673244e0284c546a4f9eb3f11.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=044fe76c75cbf45a2da5b077b4e17468"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 8.75,
+              "remote_id": "87681172",
+              "name": "Delmonico Steak",
+              "description": "Our Signature USDA Choice Delmonico Steak  cooked to order",
+              "extra_attributes": [],
+              "sort_order": 8,
+              "enabled": 1,
+              "slug": "delmonico-steak"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/1f/1ff78bceb46f4f21ab015ea1e1b7d1e5.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=86808c499bc386dfc17615f27c6ea7f7"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 6.75,
+              "remote_id": "67222132",
+              "name": "PORK CHOP",
+              "description": "Two bone-in Pork Chops (5-oz) grilled to perfection.",
+              "extra_attributes": { "base_calories": "290" },
+              "sort_order": 9,
+              "enabled": 1,
+              "slug": "pork-chop"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/35/3557d192739649b8bce0484b645d37d5.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=6f51b68d7f37bade6b6504f93656a6cc"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 6.75,
+              "remote_id": "67223516",
+              "name": "GRILLED CHICKEN",
+              "description": "Springer Mountain Farms® Grilled Chicken Breast (5-oz)",
+              "extra_attributes": { "base_calories": "140" },
+              "sort_order": 10,
+              "enabled": 1,
+              "slug": "grilled-chicken"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/94/9490175449c442e6b3c17892932fe2fb.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=24056761ac72b661b05ec4578896dd2c"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.95,
+              "remote_id": "67226284",
+              "name": "BOWL OF GRITS",
+              "description": "A bowl grits",
+              "extra_attributes": { "base_calories": "90", "max_calories": "90", "calories_separator": "-" },
+              "sort_order": 12,
+              "enabled": 1,
+              "slug": "bowl-of-grits"
+            }
+          ],
+          "enabled": 1,
+          "slug": "sides"
+        },
+        {
+          "remote_id": "79552",
+          "name": "BEVERAGES",
+          "description": "",
+          "attributes": [],
+          "sort_order": 17,
+          "items": [
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/7c/7c64b49a9c3544588b629080c1a0761c.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=ac9bcb30113d9602f5386a4f3ea6fb27"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67227668",
+              "name": "Large Coffee",
+              "description": "",
+              "extra_attributes": { "base_calories": "10" },
+              "sort_order": 0,
+              "enabled": 1,
+              "slug": "large-coffee"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e8/e8d1e60806b546ac9e84272f559b4f02.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=87d20b442c65e74f27e628fe6039a98e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67229052",
+              "name": "Large Coca-Cola®",
+              "description": "",
+              "extra_attributes": { "base_calories": "160" },
+              "sort_order": 1,
+              "enabled": 1,
+              "slug": "large-coca-cola"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e8/e8d1e60806b546ac9e84272f559b4f02.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=87d20b442c65e74f27e628fe6039a98e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67230436",
+              "name": "Large Diet Coke®",
+              "description": "",
+              "extra_attributes": { "base_calories": "0", "max_calories": "0", "calories_separator": "-" },
+              "sort_order": 2,
+              "enabled": 1,
+              "slug": "large-diet-coke"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/9f/9f5dce724a914c6a94c29a5a29946bd4.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=782cee125de64da8321e156ad0b7515d"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67231820",
+              "name": "Large Sprite®",
+              "description": "",
+              "extra_attributes": { "base_calories": "160" },
+              "sort_order": 3,
+              "enabled": 1,
+              "slug": "large-sprite"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e8/e8d1e60806b546ac9e84272f559b4f02.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=87d20b442c65e74f27e628fe6039a98e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67233204",
+              "name": "Large Barq's® Root Beer",
+              "description": "",
+              "extra_attributes": { "base_calories": "180" },
+              "sort_order": 4,
+              "enabled": 1,
+              "slug": "large-barqs-root-beer"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/e8/e8d1e60806b546ac9e84272f559b4f02.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=87d20b442c65e74f27e628fe6039a98e"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67234588",
+              "name": "Large Pibb Xtra®",
+              "description": "",
+              "extra_attributes": { "base_calories": "150" },
+              "sort_order": 5,
+              "enabled": 1,
+              "slug": "large-pibb-xtra"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/af/afc35dcbb0494d03b9f12bae76fd000f.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=7456f16b24a1da3e6ed20fe3224cd3cd"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67235972",
+              "name": "Large HI-C® Fruit Punch",
+              "description": "",
+              "extra_attributes": { "base_calories": "170" },
+              "sort_order": 6,
+              "enabled": 1,
+              "slug": "large-hi-c-fruit-punch"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/15/155ace20a3e74f078d404e712de3325a.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=90ed56b0710ca29b3037893b862fb5a9"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67238740",
+              "name": "ALICE'S ICED TEA™ - Sweet",
+              "description": "",
+              "extra_attributes": { "base_calories": "70" },
+              "sort_order": 9,
+              "enabled": 1,
+              "slug": "alices-iced-tea-sweet"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/30/3067a3a5cdaa43c8bae64dd97725b8d3.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=8a3c0fd64ac861f502de1c48a6f3eb5b"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67241508",
+              "name": "Large CHOCOLATE MILK",
+              "description": "",
+              "extra_attributes": { "base_calories": "440" },
+              "sort_order": 13,
+              "enabled": 1,
+              "slug": "large-chocolate-milk"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/10/101f35fd28aa4841bf8e23c9e65c513d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=4bcd1097a06183c9f107c3f850db64f6"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 2.65,
+              "remote_id": "67242892",
+              "name": "Large MILK",
+              "description": "",
+              "extra_attributes": { "base_calories": "250" },
+              "sort_order": 14,
+              "enabled": 1,
+              "slug": "large-milk"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/6c/6cf1738c057a41b28a630eca3633a51b.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=bb55d22b0edeaeaf6044d6c6571b20b4"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.15,
+              "remote_id": "67244276",
+              "name": "Simply® Orange",
+              "description": "",
+              "extra_attributes": { "base_calories": "160" },
+              "sort_order": 15,
+              "enabled": 1,
+              "slug": "simply-orange"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/31/3141a534bbf54196a6b007a38433fd7a.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=9c40db49520c704d00bd88fa4cb3f578"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.15,
+              "remote_id": "67245660",
+              "name": "Simply® Lemonade",
+              "description": "",
+              "extra_attributes": { "base_calories": "160" },
+              "sort_order": 16,
+              "enabled": 1,
+              "slug": "simply-lemonade"
+            },
+            {
+              "images": [
+                {
+                  "sort_order": 1,
+                  "original_image_url": "https://olo-images-live.imgix.net/59/59d8869f06084fc1865a37011f013a87.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=ac3006807c4bca2fe90f4925cd9f6ed8"
+                }
+              ],
+              "quantity": 1,
+              "spiciness": "",
+              "serves_num_people": 1,
+              "price": 3.95,
+              "remote_id": "105217066",
+              "name": "Cold Brew Coffee",
+              "description": "Try our New Classic Blend Cold Brew! Lightly Sweetened with Cream.",
+              "extra_attributes": { "base_calories": "180" },
+              "sort_order": 18,
+              "enabled": 1,
+              "slug": "cold-brew-coffee"
+            }
+          ],
+          "enabled": 1,
+          "slug": "beverages"
+        }
+      ],
+      "slug": "waffle-house-1791",
+      "enabled": 1
+    },
+    "fax_numbers": [],
+    "email_address": "socialmedia@wafflehouse.com",
+    "account_id": 27945,
+    "website_url": "https://locations.wafflehouse.com/saintjoseph-mo-1791/",
+    "location_geopoint": { "lon": -94.79321, "lat": 39.72406 },
+    "network_fiat": "",
+    "attributes": {
+      "has_parking_lot_paid": "unsure",
+      "url_menu": "https://www.wafflehouse.com/menu_item/",
+      "requires_reservations": "no",
+      "serves_cocktails": "no",
+      "welcomes_dogs": "unsure",
+      "has_assisted_listening_devices": "unsure",
+      "has_seating_rooftop": "no",
+      "serves_happy_hour_food": "no",
+      "has_order_and_pay_ahead": "unsure",
+      "is_owned_by_asian": "unsure",
+      "pay_credit_card_types_accepted": ["american_express", "mastercard", "visa", "discover"],
+      "has_wheelchair_accessible_parking": "yes",
+      "serves_dinner": "yes",
+      "url_order_ahead": "https://order.wafflehouse.com/menu/waffle-house-1791",
+      "is_owned_by_women": "unsure",
+      "has_salad_bar": "no",
+      "has_no_contact_delivery": "no",
+      "has_high_chairs": "unsure",
+      "is_owned_by_disability": "unsure",
+      "has_parking_street_paid": "unsure",
+      "is_black_owned": "unsure",
+      "serves_small_plates": "no",
+      "has_childrens_menu": "unsure",
+      "has_curbside_pickup": "no",
+      "has_wheelchair_accessible_entrance": "yes",
+      "allows_dogs_inside": "unsure",
+      "has_takeout": "yes",
+      "serves_dine_in": "yes",
+      "has_catering": "no",
+      "has_changing_tables": "unsure",
+      "welcomes_lgbtq": "unsure",
+      "has_braille_menu": "unsure",
+      "serves_beer": "no",
+      "is_covid_19_bool_1": "unsure",
+      "local_specialty": "no",
+      "has_seating": "yes",
+      "has_wheelchair_accessible_restroom": "yes",
+      "allows_dogs_outside": "unsure",
+      "has_fireplace": "no",
+      "url_linkedin": "",
+      "serves_coffee": "yes",
+      "has_onsite_parking": "unsure",
+      "pay_debit_card": "yes",
+      "has_private_dining_room": "no",
+      "serves_wine": "no",
+      "serves_alcohol": "no",
+      "serves_vegan": "no",
+      "url_pinterest": "",
+      "pay_check": "no",
+      "is_owned_by_veterans": "unsure",
+      "is_owned_by_indigenous": "unsure",
+      "has_restroom_unisex": "no",
+      "has_table_service": "yes",
+      "has_onsite_services": "unsure",
+      "has_wheelchair_accessible_seating": "yes",
+      "has_hearing_loop": "unsure",
+      "has_parking_street_free": "unsure",
+      "url_text_messaging": "",
+      "accepts_reservations": "no",
+      "url_instagram": "https://www.instagram.com/wafflehouseofficial/",
+      "has_restroom": "yes",
+      "url_reservations": "",
+      "serves_vegetarian": "yes",
+      "pay_mobile_nfc": "unsure",
+      "serves_brunch": "yes",
+      "serves_breakfast": "yes",
+      "url_facebook": "https://www.facebook.com/WaffleHouse/",
+      "serves_lunch": "yes",
+      "serves_organic": "unsure",
+      "has_parking_garage_free": "no",
+      "serves_happy_hour_drinks": "no",
+      "preferred_messaging_service": "unsure",
+      "url_twitter": "https://x.com/WaffleHouse",
+      "has_all_you_can_eat_always": "no",
+      "url_tiktok": "https://www.tiktok.com/@wafflehouse",
+      "is_owned_by_lgbtq": "unsure",
+      "has_delivery": "no",
+      "pay_credit_card": "yes",
+      "has_parking_garage_paid": "unsure",
+      "serves_comfort_food": "yes",
+      "has_live_music": "no",
+      "requires_cash_only": "no",
+      "has_drive_through": "no",
+      "has_seating_outdoors": "no",
+      "is_owned_by_latinx": "unsure",
+      "suitable_for_watching_sports": "no",
+      "has_bar_onsite": "no",
+      "serves_dessert": "yes",
+      "url_youtube": "",
+      "has_parking_lot_free": "unsure",
+      "url_whatsapp": "",
+      "serves_liquor": "no",
+      "has_counter_service": "no",
+      "welcomes_families": "unsure",
+      "has_parking_valet": "unsure",
+      "wi_fi": "unsure",
+      "is_transgender_safespace": "unsure",
+      "welcomes_children": "unsure"
+    },
+    "network_nokia_here": "",
+    "network_elocal": "",
+    "network_bing": "",
+    "keywords": "waffle house,waffle house breakfast,waffle house menu,waffle house near me,24 hour restaurant,24 hour diner,24 hour breakfast,all day breakfast,breakfast near me,late night food,late night breakfast,open late restaurant,diner food,southern breakfast,southern comfort food,comfort food,classic american diner,waffle house waffles,waffle house hashbrowns,scattered smothered covered,hashbrowns all the way,pecan waffle,chocolate chip waffle,blueberry waffle,texas bacon patty melt,patty melt,cheeseburger,grits,biscuits and gravy,bacon,eggs,coffee,sweet tea,steak and eggs,chicken and egg breakfast,all star special,chicken sausage,breakfast sausage,pork sausage,protein bowl,pork chop dinner,t-bone steak dinner,burger",
+    "network_cylex": "",
+    "menu_url": "",
+    "price_range": "$",
+    "network_facebook": "",
+    "non_stop": "",
+    "opening_status": "open",
+    "network_judys_book": "",
+    "network_apple_maps": "",
+    "network_yandex": "",
+    "additional_hours": "",
+    "network_localstack": "",
+    "network_navmii": "",
+    "network_yalwa": "",
+    "social_network_urls": {
+      "facebook_url": "https://www.facebook.com/WaffleHouse/",
+      "linkedin_url": "https://www.linkedin.com/company/waffle-house/",
+      "instagram_url": "https://www.instagram.com/wafflehouseofficial/",
+      "youtube_url": "",
+      "twitter_url": "https://twitter.com/wafflehouse",
+      "yelp_url": ""
+    },
+    "longitude": "",
+    "reservation_url": "",
+    "open_date": "0001-01-01",
+    "service_area_only": 0,
+    "network_bmw": "",
+    "custom_fields": {
+      "Facebook URL": "https://facebook.com/100089966132106",
+      "Google My Business URL": "https://maps.google.com/maps?cid=16006753630221681353",
+      "Vendors Name": "",
+      "Merchant ID": "",
+      "Merchant Name": "",
+      "brandname string": "wafflehouse",
+      "Olo ID": "122839",
+      "Vendors External Reference": "1791"
+    },
+    "network_siri": "",
+    "network_wand": "",
+    "network_ratemds": "",
+    "service_hours": "",
+    "network_stadtbranchenbuch": "",
+    "network_here": "",
+    "more_hours": {
+      "delivery": {
+        "saturday_open": "00:00",
+        "monday_open": "00:00",
+        "saturday": ["00:00-08:00", "21:00-00:00"],
+        "thursday": ["00:00-08:00", "21:00-00:00"],
+        "friday_open": "00:00",
+        "sunday_close": "08:00",
+        "tuesday_open": "00:00",
+        "tuesday_close": "08:00",
+        "sunday": ["00:00-08:00", "21:00-00:00"],
+        "thursday_close": "08:00",
+        "thursday_open": "00:00",
+        "wednesday_close": "08:00",
+        "saturday_close": "08:00",
+        "tuesday": ["00:00-08:00", "21:00-00:00"],
+        "monday_close": "08:00",
+        "wednesday_open": "00:00",
+        "sunday_open": "00:00",
+        "friday_close": "08:00",
+        "wednesday": ["00:00-08:00", "21:00-00:00"],
+        "friday": ["00:00-08:00", "21:00-00:00"],
+        "monday": ["00:00-08:00", "21:00-00:00"]
+      },
+      "access": {
+        "saturday_open": "00:00",
+        "monday_open": "00:00",
+        "saturday": ["00:00-00:00"],
+        "thursday": ["00:00-00:00"],
+        "friday_open": "00:00",
+        "sunday_close": "00:00",
+        "tuesday_open": "00:00",
+        "tuesday_close": "00:00",
+        "sunday": ["00:00-00:00"],
+        "thursday_close": "00:00",
+        "thursday_open": "00:00",
+        "wednesday_close": "00:00",
+        "saturday_close": "00:00",
+        "tuesday": ["00:00-00:00"],
+        "monday_close": "00:00",
+        "wednesday_open": "00:00",
+        "sunday_open": "00:00",
+        "friday_close": "00:00",
+        "wednesday": ["00:00-00:00"],
+        "friday": ["00:00-00:00"],
+        "monday": ["00:00-00:00"]
+      },
+      "takeout": {
+        "saturday_open": "00:00",
+        "monday_open": "00:00",
+        "saturday": ["00:00-00:00"],
+        "thursday": ["00:00-00:00"],
+        "friday_open": "00:00",
+        "sunday_close": "00:00",
+        "tuesday_open": "00:00",
+        "tuesday_close": "00:00",
+        "sunday": ["00:00-00:00"],
+        "thursday_close": "00:00",
+        "thursday_open": "00:00",
+        "wednesday_close": "00:00",
+        "saturday_close": "00:00",
+        "tuesday": ["00:00-00:00"],
+        "monday_close": "00:00",
+        "wednesday_open": "00:00",
+        "sunday_open": "00:00",
+        "friday_close": "00:00",
+        "wednesday": ["00:00-00:00"],
+        "friday": ["00:00-00:00"],
+        "monday": ["00:00-00:00"]
+      }
+    },
+    "payment_forms": ["American Express", "Discover", "Google Pay", "Apple Pay", "Cash", "Visa", "Mastercard"],
+    "network_trip_advisor": "",
+    "name": "Waffle House #1791",
+    "network_n49": "",
+    "network_uber": "",
+    "network_mercedes": "",
+    "additional_categories": ["diner", "meal_takeaway", "family_restaurant", "american_restaurant"],
+    "network_infobel": "",
+    "timezone": "America/Chicago",
+    "network_baidu": "",
+    "network_us_info_com": "",
+    "network_dex_knows": "",
+    "special_hours": {},
+    "network_factual": "",
+    "video_url": "",
+    "network_google": "",
+    "branch_name": "",
+    "gmb_url": "",
+    "network_huawei": "",
+    "network_merchantcircle": "",
+    "network_toyota": "",
+    "opening_date": "0000-00-00",
+    "hours": {
+      "saturday_open": "00:00",
+      "saturday": ["00:00-00:00"],
+      "monday_open": "00:00",
+      "thursday": ["00:00-00:00"],
+      "friday_open": "00:00",
+      "sunday_close": "00:00",
+      "tuesday_open": "00:00",
+      "tuesday_close": "00:00",
+      "sunday": ["00:00-00:00"],
+      "thursday_open": "00:00",
+      "thursday_close": "00:00",
+      "tuesday": ["00:00-00:00"],
+      "wednesday_close": "00:00",
+      "saturday_close": "00:00",
+      "monday_close": "00:00",
+      "wednesday_open": "00:00",
+      "sunday_open": "00:00",
+      "friday_close": "00:00",
+      "wednesday": ["00:00-00:00"],
+      "friday": ["00:00-00:00"],
+      "monday": ["00:00-00:00"]
+    },
+    "cover_url": "",
+    "network_audi": "",
+    "remote_id": "1791",
+    "pinterest_url": "",
+    "network_yellow_pages": "",
+    "network_gm": "",
+    "network_docspot": "",
+    "network_next_door": "",
+    "network_us_city": "",
+    "network_ford": "",
+    "network_network411": ""
+  },
+  "_distance": "201.17",
+  "_distanceuom": "mile"
+}

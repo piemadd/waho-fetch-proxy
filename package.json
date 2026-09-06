@@ -1,0 +1,19 @@
+{
+	"name": "waho-fetch-proxy",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"build_pbf": "npx buf generate"
+	},
+	"devDependencies": {
+		"@bufbuild/protoc-gen-es": "^2.14.1",
+		"wrangler": "^4.129.0"
+	},
+	"dependencies": {
+		"@bufbuild/buf": "^1.72.0",
+		"@bufbuild/protobuf": "^2.14.1"
+	}
+}

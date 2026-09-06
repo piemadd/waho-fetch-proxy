@@ -1,0 +1,70 @@
+// wahoindex.proto
+syntax = "proto3";
+package wahoindex;
+
+message MultipleLocationMessage {
+  string time_generated = 1;
+  repeated LocationMessage locations = 2;
+  repeated string special_hours_locations = 3;
+  repeated string not_open_locations = 4;
+  optional string error = 5;
+  optional string error_stack = 6;
+}
+
+message LocationMessage {
+  uint32 uid = 1;
+  string name = 2;
+  string store_bumber = 3;
+  AddressMessage address = 4;
+  CoordinatesMessage coords = 5;
+  MultipleHoursMessage hours = 6;
+  bool special_hours = 7;
+  string opening_status = 8;
+  bool opening_status_is_open = 9;
+}
+
+message AddressMessage {
+  string street_line_1 = 1;
+  string street_line_2 = 2;
+  string city = 3;
+  string state = 4;
+  string zip = 5;
+  optional string country = 6; // default 'US'
+}
+
+message CoordinatesMessage {
+  float lon = 1;
+  float lat = 2;
+}
+
+message MultipleHoursMessage {
+  optional HoursMessage standard = 1;
+  optional HoursMessage dine_in = 2;
+  optional HoursMessage delivery = 3;
+  optional HoursMessage takeout = 4;
+  optional HoursMessage special = 5;
+}
+
+message HoursMessage {
+  bool is_24_hours = 1;
+  bool some_24_hours = 2;
+  bool has_no_hours = 3;
+  MultipleDayHoursMessage days = 4;
+}
+
+message MultipleDayHoursMessage {
+  DayHoursMessage sunday = 1;
+  DayHoursMessage monday = 2;
+  DayHoursMessage tuesday = 3;
+  DayHoursMessage wednesday = 4;
+  DayHoursMessage thursday = 5;
+  DayHoursMessage friday = 6;
+  DayHoursMessage saturday = 7;
+}
+
+message DayHoursMessage {
+  string open = 1;
+  string close = 2;
+  bool is_24_hours = 3;
+  bool is_open = 4;
+}
