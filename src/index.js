@@ -163,6 +163,16 @@ export default {
 
           const standardHours = processHours(item.location?.hours);
 
+          let nonStandardOpeningState = false;
+
+          if (
+            item?.["Delivery Only"] == "yes" ||
+            item?.["Coming Soon"] == "yes" ||
+            Object.keys(item.location?.special_hours).length > 0
+          ) {
+            nonStandardOpeningState = true;
+          }
+
           finalLocations.push({
             uid: item.uid,
             name: item.name,
@@ -184,13 +194,14 @@ export default {
               special: processHours(item.location?.special_hours)
             },
             openingStatus: item.location?.opening_status,
+            nonStandardOpeningState: nonStandardOpeningState,
             openingStatusDetailed: {
               isOpen: item.location?.opening_status == "open",
               isTempClosed: item.location?.opening_status == "temporarily_closed",
               isPermClosed: item.location?.opening_status == "permanently_closed",
               isDeliveryOnly: item?.["Delivery Only"] == "yes",
               isComingSoon: item?.["Coming Soon"] == "yes",
-              hasSpecialHours: Object.keys(item.location?.special_hours).length > 0,
+              hasSpecialHours: Object.keys(item.location?.special_hours).length > 0
             }
           });
         });
@@ -207,12 +218,7 @@ export default {
       }
 
       if (returnJSON) {
-        let finalResponseObj = {
-          timeGenerated,
-          locations: finalLocations,
-          error: null,
-          errorStack: null
-        };
+        let finalResponseObj = { timeGenerated, locations: finalLocations, error: null, errorStack: null };
 
         if (DEBUG) {
           finalResponseObj["rawLocations"] = rawLocations;

@@ -83,7 +83,12 @@ export declare type LocationMessage = Message<"wahoindex.LocationMessage"> & {
   openingStatus: string;
 
   /**
-   * @generated from field: wahoindex.OpeningStatusDetailedMessage opening_status_detailed = 8;
+   * @generated from field: bool non_standard_opening_state = 8;
+   */
+  nonStandardOpeningState: boolean;
+
+  /**
+   * @generated from field: wahoindex.OpeningStatusDetailedMessage opening_status_detailed = 9;
    */
   openingStatusDetailed?: OpeningStatusDetailedMessage | undefined;
 };

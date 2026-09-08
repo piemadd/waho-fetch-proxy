@@ -17,7 +17,8 @@ message LocationMessage {
   CoordinatesMessage coords = 5;
   MultipleHoursMessage hours = 6;
   string opening_status = 7;
-  OpeningStatusDetailedMessage opening_status_detailed = 8;
+  bool non_standard_opening_state = 8;
+  OpeningStatusDetailedMessage opening_status_detailed = 9;
 }
 
 message AddressMessage {
