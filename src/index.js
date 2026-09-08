@@ -12,6 +12,11 @@ Hello! Theres a few "endpoints" here:
 /locations.pbf.json - the same as above, but converted back to json for debug purposes
 
 Data is cached on the CDN to live for 10 minutes, so fetching more frequently than that won't do you much. 
+
+Possible openingStatus values (i've seen at least):
+- 'open' - yay!!!
+- 'temporarily_closed' - fuck...
+- 'permanently_closed' - bruh
 `.trim();
 
 // https://microlink.io/user-agents
