@@ -5,22 +5,19 @@ package wahoindex;
 message MultipleLocationMessage {
   string time_generated = 1;
   repeated LocationMessage locations = 2;
-  repeated string special_hours_locations = 3;
-  repeated string not_open_locations = 4;
-  optional string error = 5;
-  optional string error_stack = 6;
+  optional string error = 3;
+  optional string error_stack = 4;
 }
 
 message LocationMessage {
   uint32 uid = 1;
   string name = 2;
-  string store_bumber = 3;
+  string store_number = 3;
   AddressMessage address = 4;
   CoordinatesMessage coords = 5;
   MultipleHoursMessage hours = 6;
-  bool special_hours = 7;
-  string opening_status = 8;
-  bool opening_status_is_open = 9;
+  string opening_status = 7;
+  OpeningStatusDetailedMessage opening_status_detailed = 8;
 }
 
 message AddressMessage {
@@ -67,4 +64,13 @@ message DayHoursMessage {
   string close = 2;
   bool is_24_hours = 3;
   bool is_open = 4;
+}
+
+message OpeningStatusDetailedMessage {
+  bool is_open = 1;
+  bool is_temp_closed = 2;
+  bool is_perm_closed = 3;
+  bool is_delivery_only = 4;
+  bool is_coming_soon = 5;
+  bool has_special_hours = 6;
 }

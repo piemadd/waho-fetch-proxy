@@ -137,8 +137,6 @@ export default {
       const timeGenerated = new Date().toISOString();
       let finalLocations = [];
       let rawLocations = [];
-      let specialHoursArr = [];
-      let notOpenArr = [];
       let currentOffset = 0;
       let finalized = false;
 
@@ -159,27 +157,16 @@ export default {
         if (DEBUG) finalized = true;
 
         thisData?.response?.collection?.forEach((item) => {
-          let specialHours = false;
-          let openingStatusIsOpen = true;
+          const store_code = item.name.split("#")[1];
 
           if (DEBUG) rawLocations.push(item);
-
-          if (Object.keys(item.location?.special_hours).length > 0) {
-            specialHours = true;
-            specialHoursArr.push(item.location?.store_code);
-          }
-
-          if (item.location?.opening_status != "open") {
-            openingStatusIsOpen = false;
-            notOpenArr.push(item.location?.store_code);
-          }
 
           const standardHours = processHours(item.location?.hours);
 
           finalLocations.push({
             uid: item.uid,
             name: item.name,
-            storeNumber: item.location?.store_code,
+            storeNumber: store_code,
             address: {
               streetLine1: item.location?.address?.address_line_1,
               streetLine2: item.location?.address?.address_line_2,
@@ -196,9 +183,15 @@ export default {
               takeout: processHours(item.location?.more_hours?.takeout),
               special: processHours(item.location?.special_hours)
             },
-            specialHours,
             openingStatus: item.location?.opening_status,
-            openingStatusIsOpen
+            openingStatusDetailed: {
+              isOpen: item.location?.opening_status == "open",
+              isTempClosed: item.location?.opening_status == "temporarily_closed",
+              isPermClosed: item.location?.opening_status == "permanently_closed",
+              isDeliveryOnly: item?.["Delivery Only"] == "yes",
+              isComingSoon: item?.["Coming Soon"] == "yes",
+              hasSpecialHours: Object.keys(item.location?.special_hours).length > 0,
+            }
           });
         });
       }
@@ -207,8 +200,6 @@ export default {
         message = create(MultipleLocationMessageSchema, {
           timeGenerated,
           locations: finalLocations,
-          specialHoursLocations: specialHoursArr,
-          notOpenLocations: notOpenArr,
           error: null,
           errorStack: null
         });
@@ -219,8 +210,6 @@ export default {
         let finalResponseObj = {
           timeGenerated,
           locations: finalLocations,
-          specialHoursLocations: specialHoursArr,
-          notOpenLocations: notOpenArr,
           error: null,
           errorStack: null
         };

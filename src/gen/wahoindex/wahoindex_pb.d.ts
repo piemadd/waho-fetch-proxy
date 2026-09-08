@@ -27,22 +27,12 @@ export declare type MultipleLocationMessage = Message<"wahoindex.MultipleLocatio
   locations: LocationMessage[];
 
   /**
-   * @generated from field: repeated string special_hours_locations = 3;
-   */
-  specialHoursLocations: string[];
-
-  /**
-   * @generated from field: repeated string not_open_locations = 4;
-   */
-  notOpenLocations: string[];
-
-  /**
-   * @generated from field: optional string error = 5;
+   * @generated from field: optional string error = 3;
    */
   error?: string | undefined;
 
   /**
-   * @generated from field: optional string error_stack = 6;
+   * @generated from field: optional string error_stack = 4;
    */
   errorStack?: string | undefined;
 };
@@ -68,9 +58,9 @@ export declare type LocationMessage = Message<"wahoindex.LocationMessage"> & {
   name: string;
 
   /**
-   * @generated from field: string store_bumber = 3;
+   * @generated from field: string store_number = 3;
    */
-  storeBumber: string;
+  storeNumber: string;
 
   /**
    * @generated from field: wahoindex.AddressMessage address = 4;
@@ -88,19 +78,14 @@ export declare type LocationMessage = Message<"wahoindex.LocationMessage"> & {
   hours?: MultipleHoursMessage | undefined;
 
   /**
-   * @generated from field: bool special_hours = 7;
-   */
-  specialHours: boolean;
-
-  /**
-   * @generated from field: string opening_status = 8;
+   * @generated from field: string opening_status = 7;
    */
   openingStatus: string;
 
   /**
-   * @generated from field: bool opening_status_is_open = 9;
+   * @generated from field: wahoindex.OpeningStatusDetailedMessage opening_status_detailed = 8;
    */
-  openingStatusIsOpen: boolean;
+  openingStatusDetailed?: OpeningStatusDetailedMessage | undefined;
 };
 
 /**
@@ -316,4 +301,45 @@ export declare type DayHoursMessage = Message<"wahoindex.DayHoursMessage"> & {
  * Use `create(DayHoursMessageSchema)` to create a new message.
  */
 export declare const DayHoursMessageSchema: GenMessage<DayHoursMessage>;
+
+/**
+ * @generated from message wahoindex.OpeningStatusDetailedMessage
+ */
+export declare type OpeningStatusDetailedMessage = Message<"wahoindex.OpeningStatusDetailedMessage"> & {
+  /**
+   * @generated from field: bool is_open = 1;
+   */
+  isOpen: boolean;
+
+  /**
+   * @generated from field: bool is_temp_closed = 2;
+   */
+  isTempClosed: boolean;
+
+  /**
+   * @generated from field: bool is_perm_closed = 3;
+   */
+  isPermClosed: boolean;
+
+  /**
+   * @generated from field: bool is_delivery_only = 4;
+   */
+  isDeliveryOnly: boolean;
+
+  /**
+   * @generated from field: bool is_coming_soon = 5;
+   */
+  isComingSoon: boolean;
+
+  /**
+   * @generated from field: bool has_special_hours = 6;
+   */
+  hasSpecialHours: boolean;
+};
+
+/**
+ * Describes the message wahoindex.OpeningStatusDetailedMessage.
+ * Use `create(OpeningStatusDetailedMessageSchema)` to create a new message.
+ */
+export declare const OpeningStatusDetailedMessageSchema: GenMessage<OpeningStatusDetailedMessage>;
 
