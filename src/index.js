@@ -199,8 +199,8 @@ export default {
               isOpen: item.location?.opening_status == "open",
               isTempClosed: item.location?.opening_status == "temporarily_closed",
               isPermClosed: item.location?.opening_status == "permanently_closed",
-              isDeliveryOnly: item?.["Delivery Only"] == "yes",
-              isComingSoon: item?.["Coming Soon"] == "yes",
+              isDeliveryOnly: item?.["Delivery Only"] == "Yes",
+              isComingSoon: item?.["Coming Soon"] == "Yes",
               hasSpecialHours: Object.keys(item.location?.special_hours).length > 0
             }
           });
