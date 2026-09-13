@@ -229,7 +229,10 @@ export default {
             "Content-Type": "application/json",
             "Cache-Control": "public, max-age=60",
             "cloudflare-cdn-cache-control": "public, max-age=600",
-            "cdn-cache-control": "public, max-age=600"
+            "cdn-cache-control": "public, max-age=600",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Expose-Headers": "Last-Modified",
+            "Last-Modified": timeGenerated
           }
         });
       } else if (returnPBF) {
@@ -238,7 +241,10 @@ export default {
             "Content-Type": "application/x-protobuf",
             "Cache-Control": "public, max-age=60",
             "cloudflare-cdn-cache-control": "public, max-age=600",
-            "cdn-cache-control": "public, max-age=600"
+            "cdn-cache-control": "public, max-age=600",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Expose-Headers": "Last-Modified",
+            "Last-Modified": timeGenerated
           }
         });
       } else if (returnPBFJSON) {
@@ -247,7 +253,10 @@ export default {
             "Content-Type": "application/json",
             "Cache-Control": "public, max-age=60",
             "cloudflare-cdn-cache-control": "public, max-age=600",
-            "cdn-cache-control": "public, max-age=600"
+            "cdn-cache-control": "public, max-age=600",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Expose-Headers": "Last-Modified",
+            "Last-Modified": timeGenerated
           }
         });
       } else {
@@ -258,7 +267,15 @@ export default {
       console.log(e);
       return Response.json(
         { locations: [], specialHoursLocations: [], notOpenLocations: [], error: e.toString(), errorStack: e.stack },
-        { headers: { "Content-Type": "application/json", "Cache-Control": "public, max-age=60" } }
+        {
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "public, max-age=60",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Expose-Headers": "Last-Modified",
+            "Last-Modified": timeGenerated
+          }
+        }
       );
     }
   }
