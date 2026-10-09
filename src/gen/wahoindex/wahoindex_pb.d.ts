@@ -327,17 +327,22 @@ export declare type OpeningStatusDetailedMessage = Message<"wahoindex.OpeningSta
   isPermClosed: boolean;
 
   /**
-   * @generated from field: bool is_delivery_only = 4;
+   * @generated from field: bool is_unknown_status = 4;
+   */
+  isUnknownStatus: boolean;
+
+  /**
+   * @generated from field: bool is_delivery_only = 5;
    */
   isDeliveryOnly: boolean;
 
   /**
-   * @generated from field: bool is_coming_soon = 5;
+   * @generated from field: bool is_coming_soon = 6;
    */
   isComingSoon: boolean;
 
   /**
-   * @generated from field: bool has_special_hours = 6;
+   * @generated from field: bool has_special_hours = 7;
    */
   hasSpecialHours: boolean;
 };

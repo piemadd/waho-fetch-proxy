@@ -199,6 +199,7 @@ export default {
               isOpen: item.location?.opening_status == "open",
               isTempClosed: item.location?.opening_status == "temporarily_closed",
               isPermClosed: item.location?.opening_status == "permanently_closed",
+              isUnknownStatus: item.location?.opening_status == "not_selected",
               isDeliveryOnly: item?.["Delivery Only"] == "Yes",
               isComingSoon: item?.["Coming Soon"] == "Yes",
               hasSpecialHours: Object.keys(item.location?.special_hours).length > 0

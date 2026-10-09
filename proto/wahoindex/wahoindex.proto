@@ -71,7 +71,8 @@ message OpeningStatusDetailedMessage {
   bool is_open = 1;
   bool is_temp_closed = 2;
   bool is_perm_closed = 3;
-  bool is_delivery_only = 4;
-  bool is_coming_soon = 5;
-  bool has_special_hours = 6;
+  bool is_unknown_status = 4;
+  bool is_delivery_only = 5;
+  bool is_coming_soon = 6;
+  bool has_special_hours = 7;
 }
