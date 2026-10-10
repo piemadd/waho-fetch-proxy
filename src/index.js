@@ -2,7 +2,7 @@ import { create, toBinary, fromBinary, toJson, fromJson } from "@bufbuild/protob
 import { MultipleLocationMessageSchema } from "./gen/wahoindex/wahoindex_pb";
 
 const APP_KEY = "67D5833A-80B5-4F9E-9C2B-9E7BAA634C27";
-const DEBUG = false;
+const DEBUG = true;
 const PER_FETCH_COUNT = DEBUG ? 10 : 100;
 
 const DEFAULT_RESPONSE = `
@@ -17,6 +17,7 @@ Possible openingStatus values (i've seen at least):
 - 'open' - yay!!!
 - 'temporarily_closed' - fuck...
 - 'permanently_closed' - bruh
+- 'not_selected' - information isn't entered into google my business profile. we go off the posted schedule to figure out if any modifications are happening to the schedule
 `.trim();
 
 // https://microlink.io/user-agents
@@ -200,6 +201,7 @@ export default {
               isTempClosed: item.location?.opening_status == "temporarily_closed",
               isPermClosed: item.location?.opening_status == "permanently_closed",
               isUnknownStatus: item.location?.opening_status == "not_selected",
+              isUnkownButLikelyOpen: item.location?.opening_status == "not_selected" && Object.keys(item.location?.hours).length > 0,
               isDeliveryOnly: item?.["Delivery Only"] == "Yes",
               isComingSoon: item?.["Coming Soon"] == "Yes",
               hasSpecialHours: Object.keys(item.location?.special_hours).length > 0
